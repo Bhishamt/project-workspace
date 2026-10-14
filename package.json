@@ -1,0 +1,18 @@
+{
+  "name": "project-workspace",
+  "version": "1.0.0",
+  "description": "A modern modular application built with clean architecture principles.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "clean-architecture",
+    "starter",
+    "modular"
+  ],
+  "author": "Bhisham Thakur",
+  "license": "MIT"
+}
